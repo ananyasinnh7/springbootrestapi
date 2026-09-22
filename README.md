@@ -439,15 +439,6 @@ docker-compose logs -f
 docker-compose down
 ```
 
-## 🚀 Deployment to Cognizant
-
-### Prerequisites for Cognizant Deployment
-
-1. **Container Registry Access**: Access to Cognizant's container registry
-2. **Kubernetes Cluster**: Access to Cognizant's Kubernetes infrastructure
-3. **Configuration Management**: Environment-specific configuration setup
-
-### Deployment Steps
 
 1. **Build and Push Docker Image**
 
