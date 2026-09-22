@@ -1,6 +1,5 @@
 # Spring Boot REST API
 
-A production-ready REST API application built with Spring Boot, Spring Data JPA, and PostgreSQL. This project is designed for easy deployment on Cognizant infrastructure and follows industry best practices.
 
 ## 📋 Table of Contents
 
